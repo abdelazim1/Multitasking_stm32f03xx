@@ -1,0 +1,5 @@
+../Src/App.c:10:6:App_init	8	static
+../Src/App.c:19:6:idle_task	8	static
+../Src/App.c:24:6:task1	8	static
+../Src/App.c:36:6:task2	8	static
+../Src/App.c:48:6:task3	8	static
